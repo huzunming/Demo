@@ -11,3 +11,6 @@ user2 add
 user1 add
 user2 aosdijf
 asdfjoasd
+public void class User{
+
+}
